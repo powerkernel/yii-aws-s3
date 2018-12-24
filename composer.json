@@ -1,5 +1,5 @@
 {
-    "name": "powerkernel/yii2-s3",
+    "name": "powerkernel/yii-aws-s3",
     "description": "Yii2 AWS S3",
     "type": "yii2-extension",
     "keywords": ["yii"," aws"," s3"," space"," object"," storage"],
