@@ -1,0 +1,21 @@
+{
+    "name": "powerkernel/yii2-s3",
+    "description": "Yii2 AWS S3",
+    "type": "yii2-extension",
+    "keywords": ["yii"," aws"," s3"," space"," object"," storage"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Harry Tang",
+            "email": "harry@powerkernel.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "powerkernel\\s3\\": ""
+        }
+    }
+}
