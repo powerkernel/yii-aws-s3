@@ -2,7 +2,7 @@ Yii AWS S3
 ===========
 Yii AWS S3
 
-[![Latest Stable Version](https://img.shields.io/github/release/powerkernel/yii-aws-s3.svg)](https://github.com/powerkernel/yii-aws-s3/releases)
+[![Latest Stable Version](https://img.shields.io/github/tag/powerkernel/yii-aws-s3.svg)](https://github.com/powerkernel/yii-aws-s3/releases)
 [![Total Downloads](https://img.shields.io/packagist/dt/powerkernel/yii-aws-s3.svg)](https://packagist.org/packages/powerkernel/yii-aws-s3)
 [![GitHub license](https://img.shields.io/github/license/powerkernel/yii-aws-s3.svg)](https://github.com/powerkernel/yii-aws-s3/blob/master/LICENSE)
 
