@@ -24,6 +24,7 @@ class AwsS3 extends \yii\base\Component
     public $secret;
     public $region;
     public $endpoint;
+    public $bucket;
 
     private $_client;
     private $_credentials;
